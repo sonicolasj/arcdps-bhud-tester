@@ -1,0 +1,17 @@
+{
+  "name": "ArcDPSEventTester",
+  "version": "0.1.0",
+  "namespace": "ArcDPSEventTester",
+  "package": "ArcDPSEventTester.dll",
+  "manifest_version": 1,
+  "description": "",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.0"
+  },
+  "contributors": [
+    {
+      "name": "sonicolasj",
+      "username": "sonicolasj.9534"
+    }
+  ]
+}
